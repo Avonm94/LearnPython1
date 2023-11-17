@@ -185,7 +185,7 @@ print(my_tuple[:])  # Prints ('p', 'r', 'o', 'g', 'r', 'a', 'm', 'i', 'z')
 # Check if an Item Exists
 # To determine if a specified item is present in a tuple use the in keyword:
 
-# Example : Check if "apple" is present in the tuple:
+# Example: Check if "apple" is present in the tuple:
 
 thistuple = ("apple", "banana", "cherry")
 if "apple" in thistuple:
