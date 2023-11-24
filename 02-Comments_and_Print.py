@@ -2,8 +2,42 @@
 # https://www.codewithharry.com/tutorial/python-comments/
 ###########################################################################################
 
-# To print we use keyword 'print'
+# Syntax of print()
+# print(object= separator= end= file= flush=)
+# To print we use the keyword 'print'
 print("Hello World")
+
+# In the above code, the print() function is taking a single parameter.
+
+# However, the actual syntax of the print function accepts 5 parameters
+# object - value(s) to be printed
+# sep (optional) - allows us to separate multiple objects inside print().
+# end (optional) - allows us to add add specific values like new line "\n", tab "\t"
+# file (optional) - where the values are printed. It's default value is sys.stdout (screen)
+# flush (optional) - boolean specifying if the output is flushed or buffered. Default: False
+
+# Example 1: Python Print Statement
+print('Good Morning!')
+print('It is rainy today')
+# Good Morning!
+# It is rainy today
+
+# In the above example, the print() statement only includes the object to be printed.
+# Here, the value for end is not used. Hence, it takes the default value '\n'.
+
+# So we get the output in two different lines.
+
+# Example 2: Python print() with end Parameter
+# print with end whitespace
+print('Good Morning!', end= ' ')
+print('It is rainy today')
+# Good Morning! It is rainy today
+
+# Example 3: Python print() with sep parameter
+print('New Year', 2023, 'See you soon!', sep= '. ')
+# New Year. 2023. See you soon!
+
+###########################################################################################
 
 # This is a Single-Line Comment using '#'
 print("Hellow World.")  # Printing Hello World
@@ -48,7 +82,9 @@ print(vowels)
 # To write two separate executable statements in a single line,
 # you should use a semicolon; to separate the commands. For example,
 
-print("Hello, World!");
+print("Hello, World!")
 print("This is second line")
 
 ###########################################################################################
+
+
