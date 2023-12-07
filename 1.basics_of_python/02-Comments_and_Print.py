@@ -12,7 +12,7 @@ print("Hello World")
 # However, the actual syntax of the print function accepts 5 parameters
 # object - value(s) to be printed
 # sep (optional) - allows us to separate multiple objects inside print().
-# end (optional) - allows us to add add specific values like new line "\n", tab "\t"
+# end (optional) - allows us to add specific values like new line "\n", tab "\t"
 # file (optional) - where the values are printed. It's default value is sys.stdout (screen)
 # flush (optional) - boolean specifying if the output is flushed or buffered. Default: False
 
@@ -79,7 +79,7 @@ print(vowels)
 
 # In one line only a single executable statement should be written
 # and the line change act as command terminator in python.
-# To write two separate executable statements in a single line,
+# To write two separate executable 3.statements in a single line,
 # you should use a semicolon; to separate the commands. For example,
 
 print("Hello, World!")

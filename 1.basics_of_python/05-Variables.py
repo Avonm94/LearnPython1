@@ -11,7 +11,7 @@
 # we just need to assign the value to the variable.
 # Example:
 
-name = "Abhishek"   #type str
+name = "Avinash"   #type str
 age = 20            #type int
 passed = True       #type bool
 
