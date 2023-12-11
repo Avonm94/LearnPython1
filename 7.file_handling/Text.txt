@@ -1,0 +1,5 @@
+This line is written through python code.
+line 1.
+line 2.
+This is an example of file appending.
+This is an example of file appending.
