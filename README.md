@@ -5,7 +5,7 @@ _
 **## Getting Started 🚀**_
 
 _**### Prerequisites**_
-Make sure you have the following installed on your system:
+: Make sure you have the following installed on your system:
 - Python (3.x recommended) 🐍
 - PyCharm IDE (or any preferred Python IDE) 🚀
 
@@ -14,13 +14,11 @@ _**### Setup**_
 2. Open the project in your preferred Python IDE, such as PyCharm.
 3. Navigate through the folders numbered sequentially to maintain a structured learning path.
 
-_**## Repository Structure 📂
-**_
+_**## Repository Structure 📂**_
 
 The repository is organized with numbered folders and corresponding Python (.py) files. While numbering folders and files is not recommended as per conventions, it has been done in this repository to provide a structured and sequential learning experience. Feel free to explore and learn at your own pace. 🏃‍♂️💨
 
-_
-**## How to Use 🛠️**_
+_**## How to Use 🛠️**_
 
 1. Start with the basics by exploring the initial folders.
 2. Move through the folders sequentially to grasp fundamental Python concepts tailored for Selenium automation.
