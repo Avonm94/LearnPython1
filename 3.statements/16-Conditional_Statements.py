@@ -1,4 +1,4 @@
-# Python 3.statements: Flow Control Statements
+# Python statements: Flow Control Statements
 
 # 1.Conditional Statement --> if, if..else, elif (if...elif...else), Nested if.
 # 2.Looping Statement --> for, while.
@@ -190,7 +190,7 @@ else:
 
 # ----------------------------------------------------------------------------------------
 
-# 4.Python Nested if 3.statements
+# 4.Python Nested if statements
 
 # We can also use an if statement inside of an if statement. This is known as a nested if statement.
 # The syntax of nested if statement is:
@@ -202,9 +202,9 @@ else:
 #     if condition2:
 #         # statement(s)
 # Notes:
-# We can add else and elif 3.statements to the inner if statement as required.
-# We can also insert inner if statement inside the outer else or elif 3.statements(if they exist)
-# We can nest multiple layers of if 3.statements.
+# We can add else and elif statements to the inner if statement as required.
+# We can also insert inner if statement inside the outer else or elif statements(if they exist)
+# We can nest multiple layers of if statements.
 
 # Ex:
 number = 5
@@ -265,7 +265,7 @@ print("A") if a > b else print("=") if a == b else print("B")
 
 # ----------------------------------------------------------------------------------------
 
-# And: The and keyword is a logical operator, and is used to combine conditional 3.statements:
+# And: The and keyword is a logical operator, and is used to combine conditional statements:
 # Example: Test if a is greater than b, AND if c is greater than a:
 a = 200
 b = 33
@@ -275,7 +275,7 @@ if a > b and c > a:
 
 # ----------------------------------------------------------------------------------------
 
-# Or: The or keyword is a logical operator, and is used to combine conditional 3.statements:
+# Or: The or keyword is a logical operator, and is used to combine conditional statements:
 # Example: Test if a is greater than b, OR if a is greater than c:
 
 a = 200
@@ -297,7 +297,7 @@ if not a > b:
 # ----------------------------------------------------------------------------------------
 
 # The pass Statement
-# if 3.statements cannot be empty, but if you for some reason have an if statement with no content,
+# if statements cannot be empty, but if you for some reason have an if statement with no content,
 # put in the pass statement to avoid getting an error.
 # Example
 a = 33

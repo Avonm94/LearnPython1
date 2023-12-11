@@ -11,8 +11,8 @@
 # continue: To continue to the next iteration of a loop
 # def: To define a function
 # del: To delete an object
-# elif: Used in conditional 3.statements, same as else if
-# else: Used in conditional 3.statements
+# elif: Used in conditional statements, same as else if
+# else: Used in conditional statements
 # except: Used with exceptions, what to do when an exception occurs
 # False: Boolean value, result of comparison operations
 # finally: Used with exceptions, a block of code that will be executed no matter if there is an exception or not

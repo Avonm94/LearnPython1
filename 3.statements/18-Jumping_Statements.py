@@ -3,7 +3,7 @@
 
 # Python break Statement
 # The break statement is used to terminate the loop immediately when it is encountered.
-# The break statement is almost always used with decision-making 3.statements.
+# The break statement is almost always used with decision-making statements.
 
 # Python break Statement with for Loop
 # We can use the break statement with the for loop to terminate the loop when a certain condition is met. For example,

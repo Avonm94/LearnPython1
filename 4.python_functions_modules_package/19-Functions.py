@@ -19,7 +19,7 @@
 # Create a function using the def keyword, followed by a function name, followed by a parenthesis (()) and a colon(:).
 # Any parameters and arguments should be placed within the parentheses.
 # Rules to naming function are similar to that of naming variables.
-# Any 3.statements and other code within the function should be indented.
+# Any statements and other code within the function should be indented.
 
 # Call a function:
 # We call a function by giving the function name, followed by parameters (if any) in the parenthesis.

@@ -254,7 +254,7 @@ study_room.calculate_area()
 # __init__ constructor:
 # In Python, the method the __init__() simulates the constructor of the class.
 # It accepts the self-keyword as a first argument which allows accessing the attributes or method of the class.
-# The __init__ constructor is used to initialize the object’s state and contains 3.statements that
+# The __init__ constructor is used to initialize the object’s state and contains statements that
 # are executed at the time of object creation.
 
 # Ex: Default constructor (not having parameter or args.)

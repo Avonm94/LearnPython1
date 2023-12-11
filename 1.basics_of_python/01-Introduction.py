@@ -59,6 +59,7 @@
 ###########################################################################################
 # https://namingconvention.org/
 # Python Naming Conventions
+
 # 1. General
 #     Avoid using names that are too general or too wordy. Strike a good balance between the two.
 #     Bad: data_structure, my_list, info_map, dictionary_for_the_purpose_of_storing_data_representing_word_definitions

@@ -79,7 +79,7 @@ print(vowels)
 
 # In one line only a single executable statement should be written
 # and the line change act as command terminator in python.
-# To write two separate executable 3.statements in a single line,
+# To write two separate executable statements in a single line,
 # you should use a semicolon; to separate the commands. For example,
 
 print("Hello, World!")
