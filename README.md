@@ -1,15 +1,16 @@
-_**# Python Learning for Selenium Automation Testing 🐍🚀**_
+_**## Python Learning for Selenium Automation Testing 🐍🚀**_
 
 Welcome to the Python Learning for Selenium Automation Testing repository! This dedicated space is designed to help you master Python within the context of Selenium automation testing. Whether you're a beginner or looking to enhance your skills, this repository covers everything from the basics to advanced concepts.
 _
 **## Getting Started 🚀**_
 
-_**### Prerequisites**_
-: Make sure you have the following installed on your system:
+_**## Prerequisites**_
+
+Make sure you have the following installed on your system:
 - Python (3.x recommended) 🐍
 - PyCharm IDE (or any preferred Python IDE) 🚀
 
-_**### Setup**_
+_**## Setup**_
 1. Clone or download the repository to your local machine.
 2. Open the project in your preferred Python IDE, such as PyCharm.
 3. Navigate through the folders numbered sequentially to maintain a structured learning path.
