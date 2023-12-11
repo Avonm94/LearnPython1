@@ -16,6 +16,7 @@ _**### Setup**_
 
 _**## Repository Structure 📂
 **_
+
 The repository is organized with numbered folders and corresponding Python (.py) files. While numbering folders and files is not recommended as per conventions, it has been done in this repository to provide a structured and sequential learning experience. Feel free to explore and learn at your own pace. 🏃‍♂️💨
 
 _
