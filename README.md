@@ -7,7 +7,7 @@ _
 _**## Prerequisites**_
 
 Make sure you have the following installed on your system:
-- Python (3.x recommended) 🐍
+- Python (4.x recommended) 🐍
 - PyCharm IDE (or any preferred Python IDE) 🚀
 
 _**## Setup**_
